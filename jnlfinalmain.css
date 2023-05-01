@@ -1,0 +1,124 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #DFE7FF;
+}
+
+.logo {
+  width: 100px;
+}
+
+.simage{
+  width: 80%;
+  margin-left: 5%;
+}
+
+.flourish-embed{
+  width: 70%;
+  margin-left: 15%;
+}
+
+.infogram-embed{
+  width: 70%;
+  margin-left: 15%;
+}
+
+.navbar{
+  padding: 0px;
+  margin: 0px;
+}
+
+nav {
+  border-bottom: 10px solid black;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+}
+
+
+.card {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.logoname {
+  font-family: Basier, Arial, sans-serif;
+  font-size: 45px;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
+.sitemotto {
+  color: #2c23cb;
+  font-family: Basier, Arial, sans-serif;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
+article {
+  margin-left: 0%;
+  width: 60%;
+}
+
+header {
+    margin-top: 15px;
+    font-family: Basier, Arial, sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+  font-size: 46px;
+}
+
+.navbar-brand {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.nav-item {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.headline {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.sub {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.byline {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+}
+
+.tdpad {
+  padding: 15px;
+}
+
+p {
+  font-family: Pensum, "Times New Roman", serif;
+  font-size: 18px;
+}
+
+.story_image {
+  width: 75%;
+  margin-left: 12.5%;
+}
+
+.caption {
+  color: gray;
+  font-size: 14px;
+  margin-top: 5px;
+  margin-left: 0%;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
